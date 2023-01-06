@@ -54,7 +54,7 @@ public class GeneralConfigFrame extends JFrame implements ActionListener {
 	/** Screen size table */
 	protected static final int[][] SCREENSIZE_TABLE =
 	{
-		{320,240}, {400,300}, {480,360}, {512,384}, {640,480}, {800,600}, {1024,768}, {1152,864}, {1280,960}, {1440,1080}, {1600,1200}, {2048,1536}, {2560,1920}, {2880,2160}
+		{320,240}, {400,300}, {480,360}, {512,384}, {640,480}, {1,1}, {1961,93}, {240,320}, {417,951}
 	};
 
 	/** Parent window */
